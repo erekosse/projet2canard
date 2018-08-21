@@ -1,2 +1,6 @@
 # projet2canard
-test en full bootstrap pour récuperer une page github en exemple 
+test du template startbootstrap resume
+modifications rapides du contenu afin de répondre à projet canard
+rajout des "progress bar 
+
+
